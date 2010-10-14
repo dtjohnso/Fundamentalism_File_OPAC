@@ -3,4 +3,5 @@
 
 .topLogoSmall { visibility:hidden; }
 
-.topLogo { height:120px; background-image:url(logo_lg.jpg); background-repeat:no-repeat; background-position:9px 9px; }
+/*.topLogo { height:120px; background-image:url(logo_lg.jpg); background-repeat:no-repeat; background-position:9px 9px; }*/
+.topLogo { height:97px; background: #7194BE; background-image:url(logo_lg.jpg); background-repeat:no-repeat;  }

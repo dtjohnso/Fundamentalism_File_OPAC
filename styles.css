@@ -650,7 +650,7 @@ div .bibResourceSidebar { display:none; }
 
 .navigationRow noscript h2, .bibSearchHistory noscript h2 { font-size:1em; margin:-3px 10px 0 0; color:#FF0000; }
 
-.navigationRow select, .navigationrow option { position:absolute; right:24px; top:48px; }
+.navigationRow select, .navigationrow option { vertical-align: middle; /*position:absolute; right:24px; top:48px;*/ } /* removed to place search history dropdown with the navigation controls rather than in the toplogo area */
 
 .navigationRow select { font-size:.83333em; width:200px; }
 

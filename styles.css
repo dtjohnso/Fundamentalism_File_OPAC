@@ -11,6 +11,7 @@ Color Scheme:
 2009B:
 background dark gray: #4D4D4D
 text dark gray: #444444
+text dark gray: #444444
 blue: #1367A7
 link blue: #014184
 link active: #7C14B8
@@ -244,7 +245,7 @@ table.bibResourceTable { border:0; }
 
 .bibSearchToolMessage { margin-bottom:5px; }
 
-.bibSearchHistory, .resourceHistory { position:absolute; right:24px; top:36px; }
+/*.bibSearchHistory, .resourceHistory { position:absolute; right:24px; top:36px; }*/ /* Removed to float search history box properly on the individual record view */
 
 .bibSearchHistory { font-size:0.83333em; }
 
